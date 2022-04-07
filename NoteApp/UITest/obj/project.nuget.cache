@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EoC40/82pbdKkPmtapIbeRDasTpJL0Ne5Y0bq4C4jHPSRYeoEKuYsqFFmjp8QcJMFuzbbk2BQaqdb6dvXWDWYw==",
+  "success": true,
+  "projectFilePath": "D:\\Notes\\mobile-app\\NoteApp\\UITest\\UITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.5\\xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

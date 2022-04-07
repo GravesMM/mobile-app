@@ -13,13 +13,14 @@
             <Label Text="Text" FontSize="Medium" />
             <Entry Text="{Binding Note.Text, Mode=TwoWay}" FontSize="Medium" />
             <Label Text="Description" FontSize="Medium" />
-            <Editor Text="{Binding Note.Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
-            <Label Text="DateTime" FontSize="Medium" IsEnabled="False" />
-            <Entry Text="{Binding Note.DateTime, Mode=TwoWay}" FontSize="Medium" IsEnabled="False"/>
+            <Editor x:Name="description" Text="{Binding Note.Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+            <Label Text="DateTime" FontSize="Medium" IsEnabled="True" />
+            <Entry x:Name="dateTime" Text="{Binding Note.DateTime, Mode=TwoWay}" FontSize="Medium" IsEnabled="True"/>
 
+            <Button Text="Pick Contact" Clicked="ContactPicker"/>
 
             <StackLayout Orientation="Horizontal">
-                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Save" Clicked="NotificationTimer" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
                 <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
             </StackLayout>
         </StackLayout>

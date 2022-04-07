@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nnhFyka2dynRF1mDSd7RWEPqLIf3fLc0pRqsO9nRGcQnDBM1nQ3+MCHBILkV2QXxYICQeCfUlEdoGWNDYZ9CVQ==",
+  "dgSpecHash": "0NiZMAWLI92+BcNF/UT6P/AXhJJGvg7wddbFn1WdZYyPpPyjLVjVjKh00VhvNxl/zKWKFTR25UzBhxuxib4fKA==",
   "success": true,
   "projectFilePath": "D:\\Notes\\mobile-app\\NoteApp\\NoteApp\\NoteApp.iOS\\NoteApp.iOS.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Myste\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Myste\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

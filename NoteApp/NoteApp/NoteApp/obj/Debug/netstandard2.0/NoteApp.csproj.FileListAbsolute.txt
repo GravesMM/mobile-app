@@ -38,4 +38,4 @@ D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.dll
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\ref\NoteApp.dll
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.pdb
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\NotificationViewPage.xaml.g.cs
-D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\MapViewPage.xaml.g.cs
+D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\ContactViewPage.xaml.g.cs

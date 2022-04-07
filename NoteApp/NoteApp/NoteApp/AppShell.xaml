@@ -84,6 +84,9 @@
     <FlyoutItem Title="Notification" Icon="icon_feed.png">
         <ShellContent Route="NoteViewPage" ContentTemplate="{DataTemplate local:NotificationViewPage}" />
     </FlyoutItem>
+    <FlyoutItem Title="Contacts" Icon="icon_feed.png">
+        <ShellContent Route="NoteViewPage" ContentTemplate="{DataTemplate local:ContactViewPage}" />
+    </FlyoutItem>
 
 
     <!--

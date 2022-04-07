@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "y7M54J9bXwtvcNzzJiM61sVDZiRBItEUXwiKIhMH6acC70LAJF1Md60LD8JYkaGAMM3PmvKKPJiZFE4D4MFczQ==",
+  "dgSpecHash": "m/wHE8y5DrY4cwHm5VVqJuAGPidz3ubZ0wLTbH4rMEiosdJ6ZZJEGHKpKtQOrFOrszbwWznPf0/I9wQhRT+whQ==",
   "success": true,
   "projectFilePath": "D:\\Notes\\mobile-app\\NoteApp\\NoteApp\\NoteApp.Android\\NoteApp.Android.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Myste\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Myste\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.3\\xamarin.androidx.annotation.1.2.0.3.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.3\\xamarin.androidx.annotation.experimental.1.1.0.3.nupkg.sha512",
