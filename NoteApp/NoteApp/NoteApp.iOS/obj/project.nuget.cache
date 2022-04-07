@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7K8+OQRiKn1ynbgnd2U+fugJVuzut60BQ0GW4e+pnZAUrFNTvHQvDjJa5IzdQ60KglsmudpOGYI/9vIv5v/3yA==",
+  "dgSpecHash": "nnhFyka2dynRF1mDSd7RWEPqLIf3fLc0pRqsO9nRGcQnDBM1nQ3+MCHBILkV2QXxYICQeCfUlEdoGWNDYZ9CVQ==",
   "success": true,
   "projectFilePath": "D:\\Notes\\mobile-app\\NoteApp\\NoteApp\\NoteApp.iOS\\NoteApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Myste\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Myste\\.nuget\\packages\\plugin.localnotification\\9.2.0\\plugin.localnotification.9.2.0.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\Myste\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",

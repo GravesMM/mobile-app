@@ -1,4 +1,5 @@
 ﻿using System;
+using Plugin.LocalNotification;
 
 using Android.App;
 using Android.Content.PM;
@@ -13,6 +14,8 @@ namespace NoteApp.Droid
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+
+            NotificationCenter.CreateNotificationChannel();
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);

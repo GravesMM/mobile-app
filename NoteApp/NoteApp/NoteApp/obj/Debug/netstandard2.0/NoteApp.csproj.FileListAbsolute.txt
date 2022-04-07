@@ -28,12 +28,7 @@ D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.csp
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\AddNoteViewPage.xaml.g.cs
-D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\NoteViewPage.xaml.g.cs
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.AssemblyInfoInputs.cache
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.AssemblyInfo.cs
@@ -42,3 +37,5 @@ D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.dll
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\ref\NoteApp.dll
 D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.pdb
+D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\NotificationViewPage.xaml.g.cs
+D:\Notes\mobile-app\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\Views\MapViewPage.xaml.g.cs

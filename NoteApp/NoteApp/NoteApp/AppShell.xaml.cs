@@ -11,14 +11,13 @@ namespace NoteApp
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute(nameof(ItemDetailPage), typeof(ItemDetailPage));
-            Routing.RegisterRoute(nameof(NewItemPage), typeof(NewItemPage));
             Routing.RegisterRoute(nameof(AddNoteViewPage), typeof(AddNoteViewPage));
+            Routing.RegisterRoute(nameof(NotificationViewPage), typeof(NotificationViewPage));
         }
 
         private async void OnMenuItemClicked(object sender, EventArgs e)
         {
-            await Shell.Current.GoToAsync("//LoginPage");
+            await Shell.Current.GoToAsync("//AddNoteViewPage");
         }
     }
 }

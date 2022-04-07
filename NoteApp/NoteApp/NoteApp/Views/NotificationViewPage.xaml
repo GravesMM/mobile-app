@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Notifications"
+             x:Class="NoteApp.Views.NotificationViewPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="100">
+                <Label Text="Notifications" FontSize="Large"  HorizontalOptions="Center"/>
+                <Button Text="Schedule Notification 1 Minute" Clicked="NotificationMinute"></Button>
+                <Button Text="Schedule Notification 1 Hour" Clicked="NotificationHour"></Button>
+                <Button Text="Schedule Notification 1 Day" Clicked="NotificationDay"></Button>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

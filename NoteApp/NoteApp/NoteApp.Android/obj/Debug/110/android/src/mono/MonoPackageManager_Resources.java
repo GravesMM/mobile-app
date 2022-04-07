@@ -4,7 +4,9 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "NoteApp.Android.dll" comes first in this list. */
 		"NoteApp.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"NoteApp.dll",
+		"Plugin.LocalNotification.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_v2.dll",
 		"SQLitePCLRaw.core.dll",
