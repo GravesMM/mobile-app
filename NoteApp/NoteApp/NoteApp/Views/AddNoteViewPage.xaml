@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NoteApp.Views.AddNoteViewPage"
+             xmlns:local="clr-namespace:NoteApp.ViewModels">
+    <ContentPage.BindingContext>
+        <local:AddNoteViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Spacing="4" Padding="15">
+            <Label Text="ID" FontSize="Medium" IsEnabled="False" />
+            <Entry Text="{Binding Note.Id, Mode=TwoWay}" FontSize="Medium" IsEnabled="False"/>
+            <Label Text="Text" FontSize="Medium" />
+            <Entry Text="{Binding Note.Text, Mode=TwoWay}" FontSize="Medium" />
+            <Label Text="Description" FontSize="Medium" />
+            <Editor Text="{Binding Note.Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+            <Label Text="DateTime" FontSize="Medium" IsEnabled="False" />
+            <Entry Text="{Binding Note.DateTime, Mode=TwoWay}" FontSize="Medium" IsEnabled="False"/>
+
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
